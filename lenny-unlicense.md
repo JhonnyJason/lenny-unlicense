@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/nCpLO3gxRlSmKVG3Zxy2hA/badge)](https://hackmd.io/nCpLO3gxRlSmKVG3Zxy2hA)
 ## The Unlicense JhonnyJason style
 
 - Information has no ownership.
