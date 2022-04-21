@@ -1,9 +1,9 @@
 [![hackmd-github-sync-badge](https://hackmd.io/nCpLO3gxRlSmKVG3Zxy2hA/badge)](https://hackmd.io/nCpLO3gxRlSmKVG3Zxy2hA)
-## The Unlicense JhonnyJason style
+# [The Unlicense JhonnyJason style](https://github.com/JhonnyJason/lenny-unlicense)
 
 - Information has no ownership.
 - Information only has memory to reside in and relations to be meaningful.
-- Information cannot be stolen. Only shared or destroyed.
+- Information cannot be stolen. Only shared or destroyed (= made inaccessible).
 
 And you wish it has been shared before it is destroyed.
 
