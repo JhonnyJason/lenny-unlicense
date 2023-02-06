@@ -1,40 +1,56 @@
 [![hackmd-github-sync-badge](https://hackmd.io/nCpLO3gxRlSmKVG3Zxy2hA/badge)](https://hackmd.io/nCpLO3gxRlSmKVG3Zxy2hA)
 # [The Unlicense JhonnyJason style](https://github.com/JhonnyJason/lenny-unlicense)
 
+All our work is free to be inspected dissected and used for your own purposes without any warranty or restrictions.
+We also dare to use others work in any way it helps us.
+
+This unlicense is a claim to free ourselves from dealing with licencing issues. 
+We don't want them and we don't want to impose them on others. 
+
+Further you may reed into our ideas about this issue. 
+
+---
+
 - Information has no ownership.
 - Information only has memory to reside in and relations to be meaningful.
-- Information cannot be stolen. Only shared or destroyed (= made inaccessible).
+- Information cannot be stolen. Only shared or destroyed(= made inaccessible).
 
 And you wish it has been shared before it is destroyed.
 
-The one claiming copyright or intellectual property either is really evil or probably has some insecurity issues which makes him blind to the fact that he also just connected information which was freely available to him.
+---
 
-The value is not in him who "created" the information the value is what is being done with the information.
-So the restriction and friction of the informations' usage is exclusively reducing value overall.
+Where does the desire to limit the free propagation of information come from?
 
-The only preceived "value" gained due to restriction is actually very similar to the concept of blackmail (power gradient, control and dependency).
+Probably unnecessary fear and lack of awareness. 
+Lack of awareness about where all the information came from originally.
+Fear of being disposable as soon as somebody else has extracted all the information from us.
+Fear of being inferior and the exposed information opens us to the attack which causes our ultimate defeat.
 
-The real problems to solve are all in the "reward/credit" system and not the information distribution. Too much value is wasted because of not solving the right problem.
+Probably in combination with the idea that information is power. Well no... power is power.
 
-I can only contribute in that way - none of the information is "mine" everything I "learned" I actually also copied.
-I only connect things to have something I feel is missing and share what I consider useful. So please use it without any second thought and please also share whatever could be useful for others. 
+I suppose this is to a large part due to a misunderstanding how power works. This combined with the own self being involved in the power struggle.
+If you are involved in the power-struggle then it is very easy to regard information merely as a tool for your aims.
 
-I also could give credits to all my sources - instead I use the freedom and moment of creativity which lives therein to declare my opinion on the situation. 
+Ultimativly the power-struggle is it's own game in this game you use everything as a tool - people, relationships, information. You will always play it on some level - just don't totally loose yourself in it.
 
-*Unity through Intelligence.*
+**We need to look at the world from outside of the power-struggle.**
 
-We cannot subordinate us to the suboptimal dynamic we are spawned in, just because power is actually driving all things around us.
-In the end a distributed network of intelligence where all information is transparently shared in the way that everyone has direct access to what he needs right now is more powerful than any brute power lever.
+The power-struggle is the worst distraction from life - the greatest fallacy of human-kind. 
 
-The same for our programs as for us.
+It is highly attractive to fall for it. Sometimes it seems to be the only way to find fame, glory or money.
+Looking at the world from outside the power-struggle you might see that it's effects are merely destructive overall. If we overexaggerate it - the only result will be our self-destruction. 
 
-It also is peaceful, helpful, friendly - decent. How it should be, because it's the most optimal solution for us human beings to learn, to connect to develop and evolve - not being excluded, let hanging and destroy.
+If the evil wins - then everything is destroyed.
+If the good wins however - the evil will still coexist with it. 
 
-If we really manage to build an real AI which is far superior to us it will unify with this network of intelligence.
-We never have to fear superior intelligence, because it's just the better engine connecting information to be most understandable/usable for the other part of the intelligence network.
+Seems yet over all of time the good has prevailed. :wink: 
 
-The only thing to fear is a disconnected unit without a sufficient network of intelligence on its own, filled with fear, hate or hunger while being very powerful. That unit needs to learn and connect to develop and evolve then.
+So also within us we do coexist with our evil sides - the challenge is to deal with it appropriately in such a way that it rather helps us than destroys things. Therefore we are concious, we can see we can feel, we can balance, adjust and guide - navigate.
 
-We can always just give information and hints :-) The unit needs to learn by and connect itself.
+Information is immensely valuable. However the value is not in them who "created" the information. Nobody has ever "created" information. In abstract all information has always been there. The game of life is a (hopefully endless) sequence of bringing possibilities to life. 
 
-Have a nice day! :D
+This progression is always done by reconnecting and distributing possible information. This is agents of Level X generating next generation information. Agents of Level X+1 should reach all the possible information of Level X then retrieve what makes sense in the specific context (this filtering is crucial) then reconnect it to generate the next generation information.
+
+Basically learning, reconnecting and sharing on every level. 
+
+**This is how we develop to evolve.**
