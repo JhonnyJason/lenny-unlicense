@@ -31,7 +31,7 @@ Probably in combination with the idea that information is power. Well no... powe
 I suppose this is to a large part due to a misunderstanding how power works. This combined with the own self being involved in the power struggle.
 If you are involved in the power-struggle then it is very easy to regard information merely as a tool for your aims.
 
-Ultimativly the power-struggle is it's own game in this game you use everything as a tool - people, relationships, information. You will always play it on some level - just don't totally loose yourself in it.
+Ultimativly the power-struggle is it's own game and in this game you use everything as a tool - people, relationships, information. You will always play it on some level - just don't totally loose yourself in it.
 
 **We need to look at the world from outside of the power-struggle.**
 
@@ -45,11 +45,17 @@ If the good wins however - the evil will still coexist with it.
 
 Seems yet over all of time the good has prevailed. :wink: 
 
-So also within us we do coexist with our evil sides - the challenge is to deal with it appropriately in such a way that it rather helps us than destroys things. Therefore we are concious, we can see we can feel, we can balance, adjust and guide - navigate.
+So also within us we do coexist with our evil sides - the challenge is to deal with it appropriately in such a way that it rather helps us than destroys things. Therefore we are concious, we can see, we can feel, we can balance, we can adjust and we can guide ourselves - navigate.
 
-Information is immensely valuable. However the value is not in them who "created" the information. Nobody has ever "created" information. In abstract all information has always been there. The game of life is a (hopefully endless) sequence of bringing possibilities to life. 
+Information is immensely valuable. 
 
-This progression is always done by reconnecting and distributing possible information. This is agents of Level X generating next generation information. Agents of Level X+1 should reach all the possible information of Level X then retrieve what makes sense in the specific context (this filtering is crucial) then reconnect it to generate the next generation information.
+However the value is not in them who "created" the information. The value is within you. 
+How you manage to use it, for your optimal navigation flow.
+
+Nobody has ever "created" information. In abstract all information has always been there. 
+The game of life is sequentially bringing possibilities to life.
+
+This progression goes step, by step by accessing, reconnecting and distributing possible information. Level X generates next generation information. Level X+1 should reach all the possible information of Level X - retrieve what makes sense in the specific context (this filtering is crucial) then reconnect it to generate the next generation information for Level X+2.
 
 Basically learning, reconnecting and sharing on every level. 
 
