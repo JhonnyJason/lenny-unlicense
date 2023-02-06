@@ -7,7 +7,7 @@ We also dare to use others work in any way it helps us.
 This unlicense is a claim to free ourselves from dealing with licencing issues. 
 We don't want them and we don't want to impose them on others. 
 
-Further you may reed into our ideas about this issue. 
+Further you may read into our ideas about this issue. 
 
 ---
 
